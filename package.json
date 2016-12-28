@@ -1,0 +1,15 @@
+{
+  "name": "smtp-server",
+  "description": "An SMTP Server",
+  "version": "0.1.0",
+  "dependencies": {},
+  "license": "MIT",
+  "main": "none",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Huamani <drihupp@gmail.com>"
+}
